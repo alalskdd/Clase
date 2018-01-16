@@ -18,7 +18,8 @@ public class AceptaElReto {
         // TODO code application logic here
         
         System.out.println("Hola");
-        
+                System.out.println("Hola");
+
     }
     
 }
